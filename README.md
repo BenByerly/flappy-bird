@@ -1,4 +1,5 @@
-# Flappy Bird Game
+# Flappy Bird Game 
+# NOT MY GAME FORKED FROM ANOTHER BRANCH
 
 ![version](https://img.shields.io/badge/version-1.0.2-blue)
 
